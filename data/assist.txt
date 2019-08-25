@@ -1,0 +1,13 @@
+system Rutilicus
+	add object Remmyhole
+		distance 800
+		sprite planet/wormhole
+
+system Perfica
+	add object Remmyhole
+		distance 800
+		sprite planet/wormhole
+
+planet Remmyhole
+	description ""
+
